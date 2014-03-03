@@ -1,2 +1,2 @@
-def dummy_function():
-    pass
+def sum_function(a, b):
+    return a + b
